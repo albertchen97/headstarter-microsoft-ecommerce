@@ -15,7 +15,13 @@
       "function": {
         "CustomerHandler": {
           "deploymentBucketName": "amplify-headstartermicrosoft-dev-140100-deployment",
-          "s3Key": "amplify-builds/CustomerHandler-792b7173564541686341-build.zip"
+          "s3Key": "amplify-builds/CustomerHandler-4c47594645776d505744-build.zip"
+        }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1wo1y2f4u0lsx",
+          "type": "cicd"
         }
       }
     }
