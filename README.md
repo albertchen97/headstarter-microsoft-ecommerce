@@ -1,6 +1,10 @@
 # Headstarter Microsoft Case - Car Parts Ecommerce Website
 An e-commerce website named "Contuso" that allows users to sell/purchase car parts. 
 
+# Video Demo
+
+https://youtu.be/vhNazs-z3cg
+
 # Tool & Frameworks
 - Tool: [AWS Amplify](https://aws.amazon.com/amplify/)
 - Frameworks:
